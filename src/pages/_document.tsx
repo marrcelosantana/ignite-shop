@@ -15,7 +15,6 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Baloo+2&family=Roboto:wght@400;700&display=swap"
           rel="stylesheet"
         />
-        <title>Ignite Shop</title>
 
         <style
           id="stitches"
